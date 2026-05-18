@@ -10,7 +10,7 @@ One-click installer scripts that set up a complete Claude Code development envir
 
 **Step 2: Copy&Paste the following command into PowerShell and press Enter**
 ```powershell
-irm "https://raw.githubusercontent.com/RanNahmany/claude-code-one-click-install/main/windows/install.bat" -OutFile install.bat; .\install.bat
+irm "https://raw.githubusercontent.com/ https://github.com/galoriancreations/claude-code-instalaci-n-con-un-clic/main/windows/install.bat" -OutFile install.bat; .\install.bat
 ```
 
 ### macOS - One-Click install (Recommended)
@@ -19,7 +19,7 @@ irm "https://raw.githubusercontent.com/RanNahmany/claude-code-one-click-install/
 
 **Step 2: Copy&Paste the following command into Terminal and press Enter**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/RanNahmany/claude-code-one-click-install/main/mac/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/ https://github.com/galoriancreations/claude-code-instalaci-n-con-un-clic/main/mac/install.sh | bash
 ```
 
 ## What Gets Installed
@@ -79,12 +79,12 @@ Need to roll back? Uninstall scripts remove everything that was installed.
 
 ### Windows
 ```powershell
-irm "https://raw.githubusercontent.com/RanNahmany/claude-code-one-click-install/main/windows/uninstall.bat" -OutFile uninstall.bat; .\uninstall.bat
+irm "https://raw.githubusercontent.com/galoriancreations/claude-code-instalaci-n-con-un-clic/main/windows/uninstall.bat" -OutFile uninstall.bat; .\uninstall.bat
 ```
 
 ### macOS
 ```bash
-curl -fsSL https://raw.githubusercontent.com/RanNahmany/claude-code-one-click-install/main/mac/uninstall.sh | bash
+curl -fsSL https://raw.githubusercontent.com/galoriancreations/claude-code-instalaci-n-con-un-clic/main/mac/uninstall.sh | bash
 ```
 
 > **Note:** The macOS uninstaller intentionally keeps Xcode Command Line Tools installed.
